@@ -2,6 +2,3 @@ Flask
 gunicorn
 customtkinter
 Pillow
-pypdf
-google-genai
-python-dotenv

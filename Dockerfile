@@ -10,8 +10,6 @@ COPY requirements.txt .
 RUN uv pip install --system --no-cache -r requirements.txt
 
 COPY . .
-# Explicitly copy .env if it's not excluded by .dockerignore (it usually is by default in many generators, but let's be safe)
-COPY .env .
 
 EXPOSE 5000
 

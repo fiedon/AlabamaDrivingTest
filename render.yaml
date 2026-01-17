@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: alabama-driving-test
+    env: docker
+    plan: free
+    region: ohio

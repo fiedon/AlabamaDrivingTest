@@ -2,9 +2,9 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 import exam_logic
 import os
 import random
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv() # Load environment variables from .env file
+# load_dotenv() # Load environment variables from .env file
 
 app = Flask(__name__)
 app.secret_key = "super_secret_key_change_this_for_prod"  # Needed for session
@@ -41,70 +41,7 @@ def start_exam():
     
     return redirect(url_for("quiz"))
 
-@app.route("/upload", methods=["POST"])
-def upload_pdf():
-    """Handles PDF upload and custom exam generation."""
-    if "file" not in request.files:
-        return redirect(url_for("index"))
-        
-    file = request.files["file"]
-    if file.filename == "":
-        return redirect(url_for("index"))
-
-    if not os.environ.get("GEMINI_API_KEY"):
-         # In a real app, use flash messages. For now, simple error page or redirect.
-         return "Error: GEMINI_API_KEY not set in environment.", 500
-
-    try:
-        import pdf_processor
-        
-        # Process PDF
-        text = pdf_processor.extract_text_from_pdf(file)
-        if not text:
-             return "Error: Could not extract text from PDF.", 400
-             
-        # Generate Questions
-        custom_questions = pdf_processor.generate_quiz_from_text(text)
-        
-        if not custom_questions:
-            return "Error: Failed to generate questions from text. Please try again.", 500
-            
-        # Store in session
-        session.clear()
-        session["custom_questions"] = custom_questions
-        # Create a map for these custom questions in the session (or rely on index)
-        # To keep it simple, we'll store the full list in session for now, 
-        # or just store IDs if we had a persistent store. 
-        # Since we don't have a DB, session is the store.
-        # But session size is limited (4096 bytes usually for client side cookies).
-        # 30 questions with text might exceed cookie size!
-        
-        # CRITICAL: Flask default session is client-side cookie. 
-        # Storing 30 full questions will likely fail or get truncated.
-        # We should use server-side session or just store a temporary global?
-        # Global is bad for multi-user.
-        # For this single-user local app, we can maybe cheat with a global dict keyed by session ID
-        # or just rely on the user running this locally.
-        
-        # Let's use a global cache keyed by a random ID stored in session.
-        exam_id = os.urandom(8).hex()
-        session["exam_id"] = exam_id
-        session["current_index"] = 0
-        session["score"] = 0
-        session["answers"] = {}
-        session["incorrect_answers"] = []
-        session["is_custom"] = True
-        
-        # Global storage for custom exams (in-memory)
-        if not hasattr(app, "custom_exams"):
-            app.custom_exams = {}
-        app.custom_exams[exam_id] = custom_questions
-        
-        return redirect(url_for("quiz"))
-        
-    except Exception as e:
-        print(f"Upload error: {e}")
-        return f"An error occurred: {e}", 500
+# Upload route removed for static deployment
 
 @app.route("/quiz")
 def quiz():

@@ -13,18 +13,4 @@
     <a href="{{ url_for('start_exam') }}" class="btn btn-primary">Start Standard Exam</a>
 </div>
 
-<div class="card upload-card" style="margin-top: 2rem;">
-    <h2>Upload Study Material</h2>
-    <p class="subtitle">Generate a custom exam from a PDF document.</p>
-
-    <form action="{{ url_for('upload_pdf') }}" method="post" enctype="multipart/form-data"
-        onsubmit="document.getElementById('upload-btn').innerText = 'Generating 200 Questions (approx 60s)...'; document.getElementById('upload-btn').disabled = true; this.submit();">
-        <div class="form-group" style="margin: 1.5rem 0;">
-            <input type="file" name="file" accept="application/pdf" required class="form-control"
-                style="font-size: 1rem; padding: 0.5rem;">
-        </div>
-        <button type="submit" id="upload-btn" class="btn btn-secondary" style="width: 100%;">Upload & Generate
-            Exam</button>
-    </form>
-</div>
 {% endblock %}
