@@ -11,7 +11,8 @@ RUN uv pip install --system --no-cache -r requirements.txt
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 10000
 
-# Increase Gunicorn timeout to 300s to allow for long generation times (4 batches * 5-10s)
-CMD ["gunicorn", "-w", "1", "-b", "0.0.0.0:5000", "--timeout", "300", "main:app"]
+# Standard Gunicorn config
+# Use shell form to allow variable expansion for PORT (default 10000)
+CMD exec gunicorn -w 4 -b 0.0.0.0:${PORT:-10000} main:app
