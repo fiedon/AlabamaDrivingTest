@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card quiz-card">
+    <div class="quiz-header">
+        <span>Question {{ index }} / {{ total }}</span>
+        <span>{{ question.category }}</span>
+    </div>
+
+    <div class="progress-container">
+        <div class="progress-bar" style="width: {{ (index / total) * 100 }}%"></div>
+    </div>
+
+    <h2 class="question-text">{{ question.question }}</h2>
+
+    {% if question.image %}
+    <img src="{{ url_for('static', filename='images/' + question.image) }}" alt="Question Image" class="question-image">
+    {% endif %}
+
+    <!-- 
+        data-correct-answer holds the correct answer string. 
+        Note: In a high-security app, you'd check this on the server via AJAX to avoid cheating, 
+        but for a practice app, exposing it in an attribute is acceptable for responsiveness.
+    -->
+    <form action="{{ url_for('submit_answer') }}" method="POST" id="quiz-form"
+        data-correct-answer="{{ question.correct_answer }}">
+        <div class="options-grid">
+            {% for option in question.options %}
+            <label class="option-btn" id="option-{{ loop.index }}">
+                <input type="radio" name="option" value="{{ option }}">
+                {{ option }}
+            </label>
+            {% endfor %}
+        </div>
+
+        <div id="feedback-area" style="margin-top: 2rem; display: none;">
+            <!-- Feedback text could go here if we wanted text in addition to colors -->
+        </div>
+
+        <div style="margin-top: 2rem; text-align: right;">
+            <button type="submit" id="next-btn" class="btn btn-primary" style="display: none;">
+                {% if index == total %}Finish Exam{% else %}Next Question{% endif %}
+            </button>
+        </div>
+    </form>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const form = document.getElementById('quiz-form');
+        const options = document.querySelectorAll('.option-btn input[type="radio"]');
+        const nextBtn = document.getElementById('next-btn');
+        const correctAnswer = form.getAttribute('data-correct-answer');
+        let answered = false;
+
+        options.forEach(option => {
+            option.addEventListener('change', function () {
+                if (answered) return; // Should be blocked by UI, but double check
+                answered = true;
+
+                const selectedValue = this.value;
+                const parentLabel = this.closest('.option-btn');
+
+                // Disable all interactions
+                options.forEach(opt => {
+                    const label = opt.closest('.option-btn');
+                    label.classList.add('disabled');
+                    // opt.disabled = true; // DO NOT disable, otherwise value isn't sent!
+                });
+
+                // Check answer
+                if (selectedValue === correctAnswer) {
+                    parentLabel.classList.add('correct-feedback');
+                } else {
+                    parentLabel.classList.add('incorrect-feedback');
+                    // Highlight the correct one
+                    options.forEach(opt => {
+                        if (opt.value === correctAnswer) {
+                            opt.closest('.option-btn').classList.add('correct-feedback');
+                        }
+                    });
+                }
+
+                // Show Next button
+                nextBtn.style.display = 'inline-block';
+            });
+        });
+    });
+</script>
+{% endblock %}

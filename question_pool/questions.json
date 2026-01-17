@@ -1,0 +1,2298 @@
+[
+  {
+    "id": 1,
+    "category": "Traffic Laws",
+    "question": "When making a right turn from a four-lane highway, you should:",
+    "options": [
+      "Enter the right lane well in advance and make a tight turn into the right lane of the cross street.",
+      "Enter the left lane and make a wide turn into the right lane.",
+      "Swing wide to the left before turning right to avoid the curb.",
+      "Turn from any lane that is clear."
+    ],
+    "correct_answer": "Enter the right lane well in advance and make a tight turn into the right lane of the cross street.",
+    "explanation": "Enter the right lane well in advance of the turn and make a tight turn into the right lane of the cross street. (Page 23)",
+    "image": null
+  },
+  {
+    "id": 2,
+    "category": "Traffic Laws",
+    "question": "Three-point turns are NOT permitted:",
+    "options": [
+      "On narrow residential streets.",
+      "On curves or near the top of hills where visibility is less than 500 feet.",
+      "In parking lots.",
+      "On one-way streets."
+    ],
+    "correct_answer": "On curves or near the top of hills where visibility is less than 500 feet.",
+    "explanation": "Three-point turns are not permitted on interstate freeways, on curves, or near the top of hills where you cannot be seen by drivers of other vehicles approaching from either direction within 500 feet. (Page 25)",
+    "image": null
+  },
+  {
+    "id": 3,
+    "category": "Traffic Laws",
+    "question": "You are not allowed to park within ___ feet of a fire hydrant.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "correct_answer": "15",
+    "explanation": "Parking is not allowed within 15 feet of a fire hydrant. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 4,
+    "category": "Traffic Laws",
+    "question": "You are not allowed to park within ___ feet of a stop sign or traffic control signal.",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "50"
+    ],
+    "correct_answer": "30",
+    "explanation": "Parking is not allowed within 30 feet of any flashing beacon, stop sign, or traffic control signal. (Page 31)",
+    "image": null
+  },
+  {
+    "id": 5,
+    "category": "Traffic Laws",
+    "question": "Alabama's child restraint law requires that children be restrained in a booster seat until they are ___ years of age.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6",
+    "explanation": "The law requires a booster seat until a child is 6 years of age. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 6,
+    "category": "Traffic Laws",
+    "question": "Under Alabama law, it is unlawful to drive with a blood alcohol concentration (BAC) of ___ or more.",
+    "options": [
+      "0.05%",
+      "0.08%",
+      "0.10%",
+      "0.02%"
+    ],
+    "correct_answer": "0.08%",
+    "explanation": "It is unlawful to drive with a concentration of .08 percent or more alcohol in the blood. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 7,
+    "category": "Traffic Laws",
+    "question": "For drivers under 21 years of age, the legal limit for blood alcohol concentration (BAC) is:",
+    "options": [
+      "0.00%",
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correct_answer": "0.02%",
+    "explanation": "Persons under 21 years of age are considered under the influence if their blood alcohol content is .02% or more. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 8,
+    "category": "Traffic Laws",
+    "question": "The fine for a first-time offense of texting while driving is:",
+    "options": [
+      "$25",
+      "$50",
+      "$75",
+      "$100"
+    ],
+    "correct_answer": "$25",
+    "explanation": "The fine for violating the texting law is $25 for a first-time offense. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 9,
+    "category": "Safe Driving Practices",
+    "question": "When passing a bicyclist, Alabama law requires that you leave a distance of at least ___ feet.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "3",
+    "explanation": "Alabama state law requires that you pass a person on a bicycle with a distance of not less than three feet. (Page 26)",
+    "image": null
+  },
+  {
+    "id": 10,
+    "category": "Safe Driving Practices",
+    "question": "When following a motorcycle, you should allow a following distance of at least:",
+    "options": [
+      "1 second",
+      "2 seconds",
+      "3 seconds",
+      "4 seconds"
+    ],
+    "correct_answer": "2 seconds",
+    "explanation": "Following distance behind the motorcyclist should be the same 2-second following distance given any other vehicle. (Page 28)",
+    "image": null
+  },
+  {
+    "id": 11,
+    "category": "Safe Driving Practices",
+    "question": "The 'No-Zone' refers to:",
+    "options": [
+      "Areas where parking is prohibited.",
+      "Danger areas around trucks and buses where crashes are more likely to occur.",
+      "Areas where passing is not allowed.",
+      "Construction zones."
+    ],
+    "correct_answer": "Danger areas around trucks and buses where crashes are more likely to occur.",
+    "explanation": "No-Zones are danger areas around trucks and buses where crashes are more likely to occur, including blind spots. (Page 29)",
+    "image": null
+  },
+  {
+    "id": 12,
+    "category": "Safe Driving Practices",
+    "question": "If a truck or bus needs to make a right turn, you should:",
+    "options": [
+      "Pass quickly on the right.",
+      "Squeeze between the truck and the curb.",
+      "Wait until the vehicle has completed the maneuver before proceeding.",
+      "Honk your horn to let them know you are there."
+    ],
+    "correct_answer": "Wait until the vehicle has completed the maneuver before proceeding.",
+    "explanation": "Truck and bus drivers need to swing wide to the left to safely make a right turn. It is best to wait until the truck or bus has completed the maneuver. (Page 30)",
+    "image": null
+  },
+  {
+    "id": 13,
+    "category": "Safe Driving Practices",
+    "question": "To avoid 'highway hypnosis' on long trips, you should:",
+    "options": [
+      "Drink plenty of coffee.",
+      "Stare at the center line.",
+      "Shift your eyes from one area of the roadway to another and take regular breaks.",
+      "Drive faster to get there sooner."
+    ],
+    "correct_answer": "Shift your eyes from one area of the roadway to another and take regular breaks.",
+    "explanation": "Shift your eyes from one area of roadway to another. It is advisable to take regular breaks every 100 miles or every two hours. (Page 34)",
+    "image": null
+  },
+  {
+    "id": 14,
+    "category": "Road Signs & Signals",
+    "question": "A red octagon sign means:",
+    "options": [
+      "Yield right of way.",
+      "Stop completely.",
+      "Merge with traffic.",
+      "School zone ahead."
+    ],
+    "correct_answer": "Stop completely.",
+    "explanation": "A red octagon sign is a STOP sign. You must come to a complete stop. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 15,
+    "category": "Road Signs & Signals",
+    "question": "A triangular sign with the point down means:",
+    "options": [
+      "Stop.",
+      "Yield.",
+      "School Zone.",
+      "No Passing."
+    ],
+    "correct_answer": "Yield.",
+    "explanation": "The YIELD sign means slow down so you can yield the right of way to pedestrians and vehicles on the intersecting street or highway. (Page 44)",
+    "image": null
+  },
+  {
+    "id": 16,
+    "category": "Road Signs & Signals",
+    "question": "A round yellow sign with a black 'X' and 'RR' indicates:",
+    "options": [
+      "Road repair ahead.",
+      "Railroad crossing ahead.",
+      "Rest area ahead.",
+      "Roundabout ahead."
+    ],
+    "correct_answer": "Railroad crossing ahead.",
+    "explanation": "The round railroad warning sign is yellow with a black X and the letters RR. It means a highway railroad crossing is ahead. (Page 40)",
+    "image": null
+  },
+  {
+    "id": 17,
+    "category": "Road Signs & Signals",
+    "question": "A diamond-shaped sign usually indicates:",
+    "options": [
+      "Regulatory information.",
+      "Warning of hazardous conditions.",
+      "Route guidance.",
+      "Services nearby."
+    ],
+    "correct_answer": "Warning of hazardous conditions.",
+    "explanation": "Warning signs are usually diamond shaped and are used to warn you of hazardous conditions ahead. (Page 46)",
+    "image": null
+  },
+  {
+    "id": 18,
+    "category": "Road Signs & Signals",
+    "question": "A rectangular sign with a white background and black text usually indicates:",
+    "options": [
+      "Warning.",
+      "Regulatory rules.",
+      "Construction.",
+      "Guidance."
+    ],
+    "correct_answer": "Regulatory rules.",
+    "explanation": "Regulatory signs regulate the movement of traffic. They are black and white. (Page 44)",
+    "image": null
+  },
+  {
+    "id": 19,
+    "category": "Road Signs & Signals",
+    "question": "A broken yellow centerline means:",
+    "options": [
+      "Passing is prohibited.",
+      "Passing is permitted when safe.",
+      "One-way traffic.",
+      "Edge of the roadway."
+    ],
+    "correct_answer": "Passing is permitted when safe.",
+    "explanation": "Broken lines are used in areas where there are no restrictions on passing when safe to do so. (Page 54)",
+    "image": null
+  },
+  {
+    "id": 20,
+    "category": "Road Signs & Signals",
+    "question": "A solid yellow line on your side of the centerline means:",
+    "options": [
+      "You may pass with caution.",
+      "You may not pass.",
+      "You are in a school zone.",
+      "The road is narrowing."
+    ],
+    "correct_answer": "You may not pass.",
+    "explanation": "If the solid yellow line is on your side of the centerline, you may not pass. (Page 54)",
+    "image": null
+  },
+  {
+    "id": 21,
+    "category": "Road Signs & Signals",
+    "question": "When approaching a roundabout, you must:",
+    "options": [
+      "Stop and wait for a green light.",
+      "Yield to traffic already in the roundabout.",
+      "Enter immediately to keep traffic moving.",
+      "Turn left to enter."
+    ],
+    "correct_answer": "Yield to traffic already in the roundabout.",
+    "explanation": "Motorists must enter from the right -- yielding to traffic already in the roundabout. (Page 53)",
+    "image": null
+  },
+  {
+    "id": 22,
+    "category": "Road Signs & Signals",
+    "question": "In a roundabout, traffic flows in a ___ direction.",
+    "options": [
+      "Clockwise",
+      "Counter-clockwise",
+      "Straight",
+      "Variable"
+    ],
+    "correct_answer": "Counter-clockwise",
+    "explanation": "A roundabout is a circular intersection that flows in a counter-clockwise direction. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 23,
+    "category": "Road Signs & Signals",
+    "question": "A steady yellow traffic light means:",
+    "options": [
+      "Speed up to beat the red light.",
+      "Stop immediately.",
+      "Clear the intersection; the light is about to turn red.",
+      "Proceed with caution."
+    ],
+    "correct_answer": "Clear the intersection; the light is about to turn red.",
+    "explanation": "A circular steady yellow means clear the intersection. It follows a green signal. (Page 56)",
+    "image": null
+  },
+  {
+    "id": 24,
+    "category": "Road Signs & Signals",
+    "question": "A flashing red traffic light means:",
+    "options": [
+      "Slow down and proceed with caution.",
+      "Stop, look, and yield before proceeding.",
+      "Stop and wait for the green light.",
+      "The signal is broken."
+    ],
+    "correct_answer": "Stop, look, and yield before proceeding.",
+    "explanation": "Flashing red light signals mean the same as a stop sign. Stop, look, and yield before proceeding. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 25,
+    "category": "Road Signs & Signals",
+    "question": "A steady green arrow means:",
+    "options": [
+      "You may proceed in the direction of the arrow.",
+      "You must stop.",
+      "You must yield to oncoming traffic.",
+      "The turn is unprotected."
+    ],
+    "correct_answer": "You may proceed in the direction of the arrow.",
+    "explanation": "A steady green arrow means you may enter the intersection to make the movement indicated by the arrow. (Page 57)",
+    "image": null
+  },
+  {
+    "id": 26,
+    "category": "Road Signs & Signals",
+    "question": "A round sign indicates:",
+    "options": [
+      "Railroad advance warning.",
+      "Stop.",
+      "Yield.",
+      "Speed limit."
+    ],
+    "correct_answer": "Railroad advance warning.",
+    "explanation": "A round yellow sign with a black X and RR indicates a railroad advance warning. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 27,
+    "category": "Road Signs & Signals",
+    "question": "A pennant-shaped sign (triangle pointing to the right) is used for:",
+    "options": [
+      "No passing zone.",
+      "School zone.",
+      "Yield.",
+      "Stop."
+    ],
+    "correct_answer": "No passing zone.",
+    "explanation": "A pennant-shaped sign is used to mark the beginning of a no passing zone. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 28,
+    "category": "Road Signs & Signals",
+    "question": "Regulatory signs are usually what colors?",
+    "options": [
+      "Black and white.",
+      "Red and white.",
+      "Yellow and black.",
+      "Orange and black."
+    ],
+    "correct_answer": "Black and white.",
+    "explanation": "Regulatory signs are black and white with the exception of those shown in actual color (like Stop and Yield). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 29,
+    "category": "Road Signs & Signals",
+    "question": "Warning signs are usually what shape?",
+    "options": [
+      "Diamond.",
+      "Octagon.",
+      "Rectangle.",
+      "Circle."
+    ],
+    "correct_answer": "Diamond.",
+    "explanation": "Warning signs are usually diamond shaped. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 30,
+    "category": "Road Signs & Signals",
+    "question": "Orange signs indicate:",
+    "options": [
+      "Construction or maintenance.",
+      "School zones.",
+      "Recreation areas.",
+      "Services."
+    ],
+    "correct_answer": "Construction or maintenance.",
+    "explanation": "Orange signs are used in construction areas. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 31,
+    "category": "Road Signs & Signals",
+    "question": "Green signs indicate:",
+    "options": [
+      "Directional guidance.",
+      "Services.",
+      "Recreation.",
+      "Warning."
+    ],
+    "correct_answer": "Directional guidance.",
+    "explanation": "Guide or informational signs are green and white for motorist directions. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 32,
+    "category": "Road Signs & Signals",
+    "question": "Blue signs indicate:",
+    "options": [
+      "Driver services (gas, food, lodging).",
+      "Construction.",
+      "Parks and recreation.",
+      "Regulatory info."
+    ],
+    "correct_answer": "Driver services (gas, food, lodging).",
+    "explanation": "Blue and white signs are used for services like gas, food, and lodging. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 33,
+    "category": "Road Signs & Signals",
+    "question": "Brown signs indicate:",
+    "options": [
+      "Public recreation and cultural interest.",
+      "Construction.",
+      "Services.",
+      "Warning."
+    ],
+    "correct_answer": "Public recreation and cultural interest.",
+    "explanation": "Brown and white signs are used for points of public recreational or cultural interest. (Page 53)",
+    "image": null
+  },
+  {
+    "id": 34,
+    "category": "Road Signs & Signals",
+    "question": "At a 4-way stop, who goes first?",
+    "options": [
+      "The vehicle that arrived first.",
+      "The vehicle on the right.",
+      "The vehicle on the left.",
+      "The largest vehicle."
+    ],
+    "correct_answer": "The vehicle that arrived first.",
+    "explanation": "The first vehicle to arrive at a complete stop is the first vehicle allowed to leave the stop sign. (Page 44)",
+    "image": null
+  },
+  {
+    "id": 35,
+    "category": "Road Signs & Signals",
+    "question": "If two vehicles arrive at a 4-way stop at the same time, who yields?",
+    "options": [
+      "The driver on the left yields to the driver on the right.",
+      "The driver on the right yields to the driver on the left.",
+      "Both drivers must stop and wait for a signal.",
+      "The driver going straight yields to the turning driver."
+    ],
+    "correct_answer": "The driver on the left yields to the driver on the right.",
+    "explanation": "When more than one vehicle arrives at the same time at the 4-way stop, the vehicle furthest to the right is allowed to leave first. (Page 44)",
+    "image": null
+  },
+  {
+    "id": 36,
+    "category": "Road Signs & Signals",
+    "question": "A sign with a red circle and a slash over a symbol means:",
+    "options": [
+      "The action shown is prohibited.",
+      "The action shown is permitted.",
+      "Warning of the action shown.",
+      "Information about the action shown."
+    ],
+    "correct_answer": "The action shown is prohibited.",
+    "explanation": "This marks a prohibition, such as No Left Turn or No U-Turn. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 37,
+    "category": "Road Signs & Signals",
+    "question": "A rectangular sign with 'Left Lane Must Turn Left' means:",
+    "options": [
+      "Traffic in the left lane is required to turn left.",
+      "Traffic in the left lane may turn left or go straight.",
+      "Traffic in the right lane must turn left.",
+      "Left turns are prohibited."
+    ],
+    "correct_answer": "Traffic in the left lane is required to turn left.",
+    "explanation": "Traffic in left lane must turn left at the intersection ahead. (Page 45)",
+    "image": null
+  },
+  {
+    "id": 38,
+    "category": "Road Signs & Signals",
+    "question": "A sign showing a truck going down a hill indicates:",
+    "options": [
+      "Steep downgrade ahead.",
+      "Truck crossing.",
+      "No trucks allowed.",
+      "Truck stop ahead."
+    ],
+    "correct_answer": "Steep downgrade ahead.",
+    "explanation": "The road ahead goes downhill. (Page 50)",
+    "image": null
+  },
+  {
+    "id": 39,
+    "category": "Road Signs & Signals",
+    "question": "A sign showing two arrows pointing in opposite directions with a divider at the top means:",
+    "options": [
+      "Divided highway ends.",
+      "Divided highway begins.",
+      "Two-way traffic.",
+      "Merge ahead."
+    ],
+    "correct_answer": "Divided highway ends.",
+    "explanation": "Divided highway ends. (Page 50)",
+    "image": null
+  },
+  {
+    "id": 40,
+    "category": "Road Signs & Signals",
+    "question": "A sign showing two arrows pointing in opposite directions with a divider at the bottom means:",
+    "options": [
+      "Divided highway ahead.",
+      "Divided highway ends.",
+      "Two-way traffic.",
+      "Merge ahead."
+    ],
+    "correct_answer": "Divided highway ahead.",
+    "explanation": "Divided highway ahead. (Page 50)",
+    "image": null
+  },
+  {
+    "id": 41,
+    "category": "Road Signs & Signals",
+    "question": "A sign with a cross mark ('+') indicates:",
+    "options": [
+      "Crossroad/Intersection ahead.",
+      "Hospital ahead.",
+      "Railroad crossing.",
+      "First aid station."
+    ],
+    "correct_answer": "Crossroad/Intersection ahead.",
+    "explanation": "Another road crosses the highway ahead. (Page 50)",
+    "image": null
+  },
+  {
+    "id": 42,
+    "category": "Road Signs & Signals",
+    "question": "A sign showing a car with wiggly lines behind it means:",
+    "options": [
+      "Slippery when wet.",
+      "Winding road.",
+      "Drunk drivers ahead.",
+      "Rough road."
+    ],
+    "correct_answer": "Slippery when wet.",
+    "explanation": "Slippery when wet. (Page 51)",
+    "image": null
+  },
+  {
+    "id": 43,
+    "category": "Road Signs & Signals",
+    "question": "A sign showing a deer indicates:",
+    "options": [
+      "Deer crossing.",
+      "Zoo ahead.",
+      "Hunting area.",
+      "Wildlife preserve."
+    ],
+    "correct_answer": "Deer crossing.",
+    "explanation": "Watch for deer crossing the road. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 44,
+    "category": "Road Signs & Signals",
+    "question": "A double solid white line between lanes means:",
+    "options": [
+      "Crossing is prohibited.",
+      "Crossing is permitted with caution.",
+      "Passing is allowed.",
+      "Lane change is recommended."
+    ],
+    "correct_answer": "Crossing is prohibited.",
+    "explanation": "Crossing the double solid white lines is prohibited. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 45,
+    "category": "Road Signs & Signals",
+    "question": "A solid white line along the side of the road marks:",
+    "options": [
+      "The edge of the roadway/fog line.",
+      "A parking lane.",
+      "A bicycle lane.",
+      "A pedestrian path."
+    ],
+    "correct_answer": "The edge of the roadway/fog line.",
+    "explanation": "This line indicates the outside edge of the traffic lane. (Page 54)",
+    "image": null
+  },
+  {
+    "id": 46,
+    "category": "Road Signs & Signals",
+    "question": "White painted letters on the pavement such as 'SCHOOL ZONE' are called:",
+    "options": [
+      "Pavement messages.",
+      "Graffiti.",
+      "Road signs.",
+      "Traffic signals."
+    ],
+    "correct_answer": "Pavement messages.",
+    "explanation": "Pavement messages are used to warn of conditions ahead. (Page 55)",
+    "image": null
+  },
+  {
+    "id": 47,
+    "category": "Road Signs & Signals",
+    "question": "A steady red traffic light means:",
+    "options": [
+      "Stop and remain stopped.",
+      "Stop, then proceed with caution.",
+      "Slow down.",
+      "Yield."
+    ],
+    "correct_answer": "Stop and remain stopped.",
+    "explanation": "Stop when signal is steady circular red. Remain stopped until signal turns to green. (Page 56)",
+    "image": null
+  },
+  {
+    "id": 48,
+    "category": "Road Signs & Signals",
+    "question": "You may make a right turn on red after stopping unless:",
+    "options": [
+      "A sign prohibits it.",
+      "It is raining.",
+      "It is night time.",
+      "You are in a truck."
+    ],
+    "correct_answer": "A sign prohibits it.",
+    "explanation": "Right turn movements after stopping are permitted unless a sign prohibits it. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 49,
+    "category": "Road Signs & Signals",
+    "question": "A flashing yellow traffic light means:",
+    "options": [
+      "Proceed with caution.",
+      "Stop.",
+      "Yield.",
+      "Speed up."
+    ],
+    "correct_answer": "Proceed with caution.",
+    "explanation": "A flashing yellow light means proceed with caution. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 50,
+    "category": "Road Signs & Signals",
+    "question": "A steady yellow arrow means:",
+    "options": [
+      "The protected turning movement is ending.",
+      "You may turn with caution.",
+      "Stop immediately.",
+      "Turn left."
+    ],
+    "correct_answer": "The protected turning movement is ending.",
+    "explanation": "A steady yellow arrow means that the previous protected green arrow movement is ending. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 51,
+    "category": "Road Signs & Signals",
+    "question": "A red 'X' over a lane means:",
+    "options": [
+      "Do not drive in this lane.",
+      "Stop in this lane.",
+      "Yield in this lane.",
+      "Construction in this lane."
+    ],
+    "correct_answer": "Do not drive in this lane.",
+    "explanation": "A driver facing a steady red X shall not drive in the lane over which the signal is located. (Page 58)",
+    "image": null
+  },
+  {
+    "id": 52,
+    "category": "Road Signs & Signals",
+    "question": "A green arrow over a lane means:",
+    "options": [
+      "You may drive in this lane.",
+      "You must turn.",
+      "Lane ends ahead.",
+      "Merge left."
+    ],
+    "correct_answer": "You may drive in this lane.",
+    "explanation": "A driver facing a steady green arrow is permitted to drive in the lane. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 53,
+    "category": "Road Signs & Signals",
+    "question": "Shared Lane Markings (Sharrows) indicate:",
+    "options": [
+      "Bicyclists may occupy the travel lane.",
+      "Motorcycles only.",
+      "Pedestrian crossing.",
+      "No parking."
+    ],
+    "correct_answer": "Bicyclists may occupy the travel lane.",
+    "explanation": "Shared Lane Markings inform road users that people on bicycles might occupy the travel lane. (Page 52)",
+    "image": null
+  },
+  {
+    "id": 54,
+    "category": "Road Signs & Signals",
+    "question": "In a construction zone, fines for speeding are:",
+    "options": [
+      "Doubled.",
+      "Tripled.",
+      "The same as usual.",
+      "Waived."
+    ],
+    "correct_answer": "Doubled.",
+    "explanation": "Fines are often doubled in construction zones (general knowledge, implied by warning signs). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 55,
+    "category": "Road Signs & Signals",
+    "question": "A slow-moving vehicle emblem is:",
+    "options": [
+      "A reflective orange triangle.",
+      "A red circle.",
+      "A yellow diamond.",
+      "A blue square."
+    ],
+    "correct_answer": "A reflective orange triangle.",
+    "explanation": "The slow moving vehicle emblem is a reflective orange triangle. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 56,
+    "category": "Traffic Laws",
+    "question": "You may not cross the center line to pass on a curve or hill where you cannot see a clear passing distance of at least ___ feet.",
+    "options": [
+      "100",
+      "300",
+      "500",
+      "700"
+    ],
+    "correct_answer": "500",
+    "explanation": "You may not cross the center line to pass on a curve or hill where you cannot see a clear passing distance of at least 500 feet. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 57,
+    "category": "Traffic Laws",
+    "question": "When a school bus stops with its red lights flashing and stop arm extended, you must:",
+    "options": [
+      "Slow down and pass with caution.",
+      "Stop only if you are on the same side of the road.",
+      "Stop, regardless of your direction of travel (unless on a divided highway with a barrier).",
+      "Honk your horn and proceed."
+    ],
+    "correct_answer": "Stop, regardless of your direction of travel (unless on a divided highway with a barrier).",
+    "explanation": "Drivers must stop for a school bus displaying an extended stop arm. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 58,
+    "category": "Traffic Laws",
+    "question": "Alabama's Move Over Law requires that when approaching emergency vehicles stopped with flashing lights, you must:",
+    "options": [
+      "Speed up to get past quickly.",
+      "Vacate the lane closest to the emergency vehicle or slow down if changing lanes is unsafe.",
+      "Stop immediately.",
+      "Turn on your high beams."
+    ],
+    "correct_answer": "Vacate the lane closest to the emergency vehicle or slow down if changing lanes is unsafe.",
+    "explanation": "Motorists on roadways with four or more lanes must vacate the lane closest to the emergency vehicle or slow to a speed at least 15 mph less than the limit. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 59,
+    "category": "Traffic Laws",
+    "question": "The mandatory liability insurance law requires a minimum of ___ for death or bodily injury to one person.",
+    "options": [
+      "$10,000",
+      "$25,000",
+      "$50,000",
+      "$100,000"
+    ],
+    "correct_answer": "$25,000",
+    "explanation": "Liability insurance policies must be issued for no less than $25,000 for death or bodily injury to one person. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 60,
+    "category": "Traffic Laws",
+    "question": "The minimum liability insurance for death or bodily injury to two or more persons is:",
+    "options": [
+      "$25,000",
+      "$50,000",
+      "$75,000",
+      "$100,000"
+    ],
+    "correct_answer": "$50,000",
+    "explanation": "Liability insurance policies must be issued for no less than $50,000 for death or bodily injury to two or more persons. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 61,
+    "category": "Traffic Laws",
+    "question": "The minimum liability insurance for damage or destruction of property is:",
+    "options": [
+      "$10,000",
+      "$25,000",
+      "$50,000",
+      "$5,000"
+    ],
+    "correct_answer": "$25,000",
+    "explanation": "Liability insurance policies must be issued for no less than $25,000 for damage or destruction of property. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 62,
+    "category": "Traffic Laws",
+    "question": "The fine for a first violation of the mandatory liability insurance law can be up to:",
+    "options": [
+      "$100",
+      "$250",
+      "$500",
+      "$1,000"
+    ],
+    "correct_answer": "$500",
+    "explanation": "An owner or operator convicted of a mandatory liability insurance violation may be fined up to $500 for the first violation. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 63,
+    "category": "Traffic Laws",
+    "question": "If you are convicted of a second mandatory liability insurance violation, your license can be suspended for:",
+    "options": [
+      "30 days",
+      "90 days",
+      "6 months",
+      "1 year"
+    ],
+    "correct_answer": "6 months",
+    "explanation": "A second or subsequent violation may result in a six month driver's license suspension. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 64,
+    "category": "Traffic Laws",
+    "question": "When passing another vehicle, you must return to the right lane before coming within ___ feet of an oncoming vehicle.",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "500"
+    ],
+    "correct_answer": "200",
+    "explanation": "This is a standard safety rule often cited in manuals (though specific text might vary, 200ft is standard). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 65,
+    "category": "Traffic Laws",
+    "question": "You are not allowed to follow within ___ feet of an emergency vehicle answering an alarm.",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "500"
+    ],
+    "correct_answer": "500",
+    "explanation": "Only vehicles on necessary official business are permitted to follow within 500 feet of emergency vehicles on an emergency run. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 66,
+    "category": "Traffic Laws",
+    "question": "It is unlawful to drive over an unprotected fire hose unless:",
+    "options": [
+      "It is flat.",
+      "You are in a hurry.",
+      "Authorized by a police officer or fire department official.",
+      "You have a truck."
+    ],
+    "correct_answer": "Authorized by a police officer or fire department official.",
+    "explanation": "Don't drive over an unprotected fire hose unless authorized to do so by a police officer or fire department official. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 67,
+    "category": "Traffic Laws",
+    "question": "Backing is prohibited on:",
+    "options": [
+      "Residential streets.",
+      "Parking lots.",
+      "Controlled access highways (freeways).",
+      "One-way streets."
+    ],
+    "correct_answer": "Controlled access highways (freeways).",
+    "explanation": "Backing is prohibited on controlled access highways (freeways and expressways). (Page 68)",
+    "image": null
+  },
+  {
+    "id": 68,
+    "category": "Traffic Laws",
+    "question": "When backing a vehicle, you should:",
+    "options": [
+      "Rely solely on your mirrors.",
+      "Look over your right shoulder to the rear.",
+      "Honk your horn.",
+      "Back up quickly."
+    ],
+    "correct_answer": "Look over your right shoulder to the rear.",
+    "explanation": "Before backing, you should look to the front, sides, and rear and continue to look over your right shoulder to the rear while backing. (Page 68)",
+    "image": null
+  },
+  {
+    "id": 69,
+    "category": "Traffic Laws",
+    "question": "Driving on the shoulder is allowed:",
+    "options": [
+      "To pass a slow vehicle.",
+      "When traffic is heavy.",
+      "Only during an emergency or when directed by traffic authorities.",
+      "If you are turning right."
+    ],
+    "correct_answer": "Only during an emergency or when directed by traffic authorities.",
+    "explanation": "It is unlawful to drive on the shoulder to pass except during an emergency or when so directed by traffic authorities. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 70,
+    "category": "Traffic Laws",
+    "question": "A load must not extend more than ___ feet beyond the front of the vehicle.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "5",
+    "explanation": "A load must not extend more than 5 feet beyond both the front and rear. (Page 69)",
+    "image": null
+  },
+  {
+    "id": 71,
+    "category": "Traffic Laws",
+    "question": "If a load extends 4 feet or more from the rear of a vehicle, it must be marked with:",
+    "options": [
+      "A red flag (day) or red light (night).",
+      "A yellow flag.",
+      "A white cloth.",
+      "A flashing blue light."
+    ],
+    "correct_answer": "A red flag (day) or red light (night).",
+    "explanation": "If a load projects 4 feet or more from the rear, a red flag (day) or red light (night) must be attached. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 72,
+    "category": "Traffic Laws",
+    "question": "The red flag used to mark an extended load must be at least ___ inches square.",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "18"
+    ],
+    "correct_answer": "12",
+    "explanation": "A red flag at least 12 inches square must be attached. (Page 69)",
+    "image": null
+  },
+  {
+    "id": 73,
+    "category": "Traffic Laws",
+    "question": "Under the Move Over Law, if you cannot change lanes away from an emergency vehicle, you must slow to a speed ___ mph less than the posted limit.",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct_answer": "15",
+    "explanation": "The driver must slow to a speed that is at least 15 miles per hour less than the posted speed limit. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 74,
+    "category": "Traffic Laws",
+    "question": "If the speed limit is 20 mph or less, and you encounter an emergency vehicle under the Move Over Law, you must travel at:",
+    "options": [
+      "5 mph.",
+      "10 mph.",
+      "15 mph.",
+      "The posted limit."
+    ],
+    "correct_answer": "10 mph.",
+    "explanation": "Travel 10 miles per hour when the posted speed limit is 20 miles per hour or less. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 75,
+    "category": "Traffic Laws",
+    "question": "When being stopped by law enforcement, you should:",
+    "options": [
+      "Get out of the car immediately.",
+      "Reach for your license before the officer approaches.",
+      "Keep your hands on the steering wheel.",
+      "Argue if you think you are right."
+    ],
+    "correct_answer": "Keep your hands on the steering wheel.",
+    "explanation": "Keep both hands on the steering wheel to ensure they are easily seen. (Page 69)",
+    "image": null
+  },
+  {
+    "id": 76,
+    "category": "Traffic Laws",
+    "question": "If you are stopped at night by law enforcement, you should:",
+    "options": [
+      "Turn off your lights.",
+      "Turn on your vehicle's interior lights.",
+      "Get out of the car.",
+      "Flash your headlights."
+    ],
+    "correct_answer": "Turn on your vehicle's interior lights.",
+    "explanation": "If a stop occurs at night, turn on your vehicle's interior lights to assist the officer. (Page 69)",
+    "image": null
+  },
+  {
+    "id": 77,
+    "category": "Traffic Laws",
+    "question": "Window tinting is allowed on the upper ___ inches of the front windshield.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6",
+    "explanation": "Only the upper 6 inches of the front windshield may be tinted. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 78,
+    "category": "Traffic Laws",
+    "question": "For drivers under 18 with a graduated license, they may not drive between ___ and ___ unless accompanied by a parent or for specific exceptions.",
+    "options": [
+      "10 PM and 5 AM",
+      "11 PM and 6 AM",
+      "12 midnight and 6 AM",
+      "1 AM and 5 AM"
+    ],
+    "correct_answer": "12 midnight and 6 AM",
+    "explanation": "The student may not operate a vehicle between 12 midnight and 6 a.m. unless accompanied by a parent or legal guardian. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 79,
+    "category": "Traffic Laws",
+    "question": "A 16-year-old driver with a license less than 6 months old may not have more than ___ non-family passenger(s).",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "1",
+    "explanation": "May not have more than 1 nonfamily passenger other than the parent, guardian or supervising licensed driver. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 80,
+    "category": "Traffic Laws",
+    "question": "Using a handheld communication device while driving is prohibited for:",
+    "options": [
+      "All drivers.",
+      "Drivers under 18 with a graduated license.",
+      "Commercial drivers only.",
+      "Drivers over 65."
+    ],
+    "correct_answer": "Drivers under 18 with a graduated license.",
+    "explanation": "Drive while operating any handheld communication device. Violations will result in an extension of the graduated license period. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 81,
+    "category": "Traffic Laws",
+    "question": "If a 16 or 17-year-old driver is convicted of a second moving violation, their license will be suspended for:",
+    "options": [
+      "30 days.",
+      "60 days.",
+      "90 days.",
+      "6 months."
+    ],
+    "correct_answer": "60 days.",
+    "explanation": "If a licensee is convicted of a second moving traffic violation... their license will automatically be suspended for 60 days. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 82,
+    "category": "Traffic Laws",
+    "question": "The legal age to apply for a learner's license in Alabama is:",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correct_answer": "15",
+    "explanation": "15 year olds with a valid learner license are authorized to drive while accompanied by a parent. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 83,
+    "category": "Traffic Laws",
+    "question": "A person under 18 must hold a learner license for at least ___ months before applying for an unrestricted license.",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correct_answer": "6",
+    "explanation": "A person under the age of 18 may not apply for an unrestricted driver license until that person has held a learner license for at least a six-month period. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 84,
+    "category": "Traffic Laws",
+    "question": "When parking on a hill with a curb, facing uphill, you should turn your wheels:",
+    "options": [
+      "Away from the curb.",
+      "Toward the curb.",
+      "Straight ahead.",
+      "It doesn't matter."
+    ],
+    "correct_answer": "Away from the curb.",
+    "explanation": "Turn wheels away from the curb when parking uphill with a curb (standard driving rule). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 85,
+    "category": "Traffic Laws",
+    "question": "When parking on a hill with a curb, facing downhill, you should turn your wheels:",
+    "options": [
+      "Away from the curb.",
+      "Toward the curb.",
+      "Straight ahead.",
+      "Left."
+    ],
+    "correct_answer": "Toward the curb.",
+    "explanation": "Turn wheels toward the curb when parking downhill with a curb. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 86,
+    "category": "Traffic Laws",
+    "question": "Window tinting on passenger cars must allow at least ___ light transmission.",
+    "options": [
+      "20%",
+      "32%",
+      "50%",
+      "70%"
+    ],
+    "correct_answer": "32%",
+    "explanation": "All windows (side and rear) may have tinting that allows at least 32 percent light transmission. (Page 70)",
+    "image": null
+  },
+  {
+    "id": 87,
+    "category": "Safe Driving Practices",
+    "question": "You must dim your headlights when within ___ feet of an oncoming vehicle.",
+    "options": [
+      "200",
+      "300",
+      "500",
+      "1000"
+    ],
+    "correct_answer": "500",
+    "explanation": "You must dim your headlights when within 500 feet of an oncoming vehicle. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 88,
+    "category": "Safe Driving Practices",
+    "question": "You must dim your headlights when following another vehicle within ___ feet.",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "500"
+    ],
+    "correct_answer": "200",
+    "explanation": "You must dim your headlights within 200 feet when following another vehicle. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 89,
+    "category": "Safe Driving Practices",
+    "question": "Hydroplaning can start at speeds as low as:",
+    "options": [
+      "25 mph",
+      "35 mph",
+      "45 mph",
+      "55 mph"
+    ],
+    "correct_answer": "35 mph",
+    "explanation": "In a standard passenger car, partial hydroplaning starts at about 35 mph. (Page 74)",
+    "image": null
+  },
+  {
+    "id": 90,
+    "category": "Safe Driving Practices",
+    "question": "If your vehicle begins to skid, you should:",
+    "options": [
+      "Slam on the brakes.",
+      "Steer in the opposite direction of the skid.",
+      "Take your foot off the accelerator and steer in the direction the rear of the vehicle is skidding.",
+      "Shift into neutral and brake hard."
+    ],
+    "correct_answer": "Take your foot off the accelerator and steer in the direction the rear of the vehicle is skidding.",
+    "explanation": "To overcome a skid, you must either slow the rear wheels somewhat or speed the front wheels. Steer in the direction the rear of the vehicle is skidding. (Page 73)",
+    "image": null
+  },
+  {
+    "id": 91,
+    "category": "Safe Driving Practices",
+    "question": "If you experience a tire blowout, you should:",
+    "options": [
+      "Brake immediately and pull over.",
+      "Hold the steering wheel tightly and steer straight, easing up on the accelerator.",
+      "Turn the steering wheel sharply to the right.",
+      "Accelerate to maintain control."
+    ],
+    "correct_answer": "Hold the steering wheel tightly and steer straight, easing up on the accelerator.",
+    "explanation": "Hold tightly to the steering wheel, steer straight and ease up on the accelerator. Do not brake until the vehicle is under control. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 92,
+    "category": "Safe Driving Practices",
+    "question": "When entering a freeway, you should use the acceleration lane to:",
+    "options": [
+      "Stop and wait for a gap in traffic.",
+      "Increase your speed to match that of freeway traffic.",
+      "Drive slowly until you merge.",
+      "Pass other vehicles."
+    ],
+    "correct_answer": "Increase your speed to match that of freeway traffic.",
+    "explanation": "As you approach and enter the acceleration lane, increase speed to match that of vehicles in the through lanes. (Page 78)",
+    "image": null
+  },
+  {
+    "id": 93,
+    "category": "Safe Driving Practices",
+    "question": "If you miss your exit on a freeway, you should:",
+    "options": [
+      "Stop and back up on the shoulder.",
+      "Make a U-turn across the median.",
+      "Proceed to the next exit.",
+      "Slow down and wait for traffic to clear."
+    ],
+    "correct_answer": "Proceed to the next exit.",
+    "explanation": "If you miss your exit you must not stop, back up, or attempt to turn-around; proceed to the next exit. (Page 80)",
+    "image": null
+  },
+  {
+    "id": 94,
+    "category": "Safe Driving Practices",
+    "question": "Headlights must be turned on from:",
+    "options": [
+      "Sunset to sunrise.",
+      "One hour after sunset to one hour before sunrise.",
+      "A half-hour after sunset to a half-hour before sunrise.",
+      "Only when it is pitch black."
+    ],
+    "correct_answer": "A half-hour after sunset to a half-hour before sunrise.",
+    "explanation": "Headlights must be turned on from a half-hour after sunset to a half-hour before sunrise. (Page 71)",
+    "image": null
+  },
+  {
+    "id": 95,
+    "category": "Safe Driving Practices",
+    "question": "High beam headlights normally illuminate the roadway about ___ feet.",
+    "options": [
+      "200",
+      "350",
+      "500",
+      "1000"
+    ],
+    "correct_answer": "350",
+    "explanation": "Headlights on high beam normally illuminate the roadway about 350 feet. (Page 71)",
+    "image": null
+  },
+  {
+    "id": 96,
+    "category": "Safe Driving Practices",
+    "question": "You must use your headlights when visibility is limited to less than ___ feet.",
+    "options": [
+      "200",
+      "300",
+      "500",
+      "1000"
+    ],
+    "correct_answer": "500",
+    "explanation": "Turn on headlights during periods of limited visibility when you cannot see clearly for at least 500 feet. (Page 71)",
+    "image": null
+  },
+  {
+    "id": 97,
+    "category": "Safe Driving Practices",
+    "question": "To avoid glare from oncoming headlights at night, you should:",
+    "options": [
+      "Look straight at the lights.",
+      "Look to the right edge of the pavement.",
+      "Close one eye.",
+      "Turn on your high beams."
+    ],
+    "correct_answer": "Look to the right edge of the pavement.",
+    "explanation": "Glare from oncoming lights can be reduced by directing your vision AWAY from them... to the right-hand edge of the pavement. (Page 72)",
+    "image": null
+  },
+  {
+    "id": 98,
+    "category": "Safe Driving Practices",
+    "question": "In fog, rain, or snow, you should use:",
+    "options": [
+      "High beam headlights.",
+      "Low beam headlights.",
+      "Parking lights only.",
+      "No lights."
+    ],
+    "correct_answer": "Low beam headlights.",
+    "explanation": "Keep headlights on low beam to reduce the glaring reflection of your lights on the thick fog blanket or blinding snow. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 99,
+    "category": "Safe Driving Practices",
+    "question": "On snow or ice, it can take ___ times as much distance to stop your car as on dry pavement.",
+    "options": [
+      "2 to 3",
+      "3 to 12",
+      "10 to 20",
+      "It takes the same distance."
+    ],
+    "correct_answer": "3 to 12",
+    "explanation": "Remember that on snow or ice it takes three to twelve times as much distance to stop your car as on dry pavement. (Page 73)",
+    "image": null
+  },
+  {
+    "id": 100,
+    "category": "Safe Driving Practices",
+    "question": "If your brakes fail, you should first:",
+    "options": [
+      "Jump out of the car.",
+      "Pump the brake pedal.",
+      "Apply the parking brake hard.",
+      "Turn off the engine."
+    ],
+    "correct_answer": "Pump the brake pedal.",
+    "explanation": "If your brake pedal suddenly sinks all the way to the floor, try pumping the pedal to build up the pressure. (Page 76)",
+    "image": null
+  },
+  {
+    "id": 101,
+    "category": "Safe Driving Practices",
+    "question": "If your wheels drift onto the shoulder, you should:",
+    "options": [
+      "Swerve back onto the pavement immediately.",
+      "Stay on the shoulder and reduce speed.",
+      "Brake hard.",
+      "Accelerate."
+    ],
+    "correct_answer": "Stay on the shoulder and reduce speed.",
+    "explanation": "Instead, stay on the shoulder and reduce speed. After you've slowed down, turn gently back onto the pavement. (Page 76)",
+    "image": null
+  },
+  {
+    "id": 102,
+    "category": "Safe Driving Practices",
+    "question": "If your accelerator pedal sticks, you should:",
+    "options": [
+      "Turn off the engine immediately.",
+      "Try to free it with your toe or shift to neutral.",
+      "Jump out.",
+      "Call for help."
+    ],
+    "correct_answer": "Try to free it with your toe or shift to neutral.",
+    "explanation": "You may be able to free it by hooking your toe under the pedal... If not, you can turn the engine off (or shift to neutral). (Page 77)",
+    "image": null
+  },
+  {
+    "id": 103,
+    "category": "Safe Driving Practices",
+    "question": "Carbon monoxide is:",
+    "options": [
+      "A visible blue gas.",
+      "Smells like rotten eggs.",
+      "Odorless and deadly.",
+      "Harmless."
+    ],
+    "correct_answer": "Odorless and deadly.",
+    "explanation": "Carbon monoxide fumes are odorless and deadly. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 104,
+    "category": "Safe Driving Practices",
+    "question": "Symptoms of carbon monoxide poisoning include:",
+    "options": [
+      "Hyperactivity.",
+      "Sudden weariness, yawning, dizziness, and nausea.",
+      "Hunger.",
+      "Itchy skin."
+    ],
+    "correct_answer": "Sudden weariness, yawning, dizziness, and nausea.",
+    "explanation": "Symptoms of carbon monoxide poisoning are sudden weariness, yawning, dizziness and nausea. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 105,
+    "category": "Safe Driving Practices",
+    "question": "To prevent carbon monoxide poisoning, you should:",
+    "options": [
+      "Drive with windows closed tightly.",
+      "Warm up the car in a closed garage.",
+      "Have the exhaust system checked regularly.",
+      "Use the air conditioner on max."
+    ],
+    "correct_answer": "Have the exhaust system checked regularly.",
+    "explanation": "Have the exhaust system checked regularly to be sure it does not leak. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 106,
+    "category": "Safe Driving Practices",
+    "question": "If your car plunges into deep water, you should:",
+    "options": [
+      "Wait for it to sink.",
+      "Immediately escape through a window.",
+      "Open the door immediately.",
+      "Call 911 before doing anything."
+    ],
+    "correct_answer": "Immediately escape through a window.",
+    "explanation": "Immediately escape through a window. Opening a door... will permit water to enter more rapidly. (Page 77)",
+    "image": null
+  },
+  {
+    "id": 107,
+    "category": "Safe Driving Practices",
+    "question": "The 'Death Zone' around a school bus refers to:",
+    "options": [
+      "The inside of the bus.",
+      "The area around the stopped school bus where children are most likely to be hit.",
+      "The roof of the bus.",
+      "The bus driver's seat."
+    ],
+    "correct_answer": "The area around the stopped school bus where children are most likely to be hit.",
+    "explanation": "This area around the stopped school bus is referred to as the 'DEATH ZONE'. (Page 83)",
+    "image": null
+  },
+  {
+    "id": 108,
+    "category": "Safe Driving Practices",
+    "question": "Freeways are designed to:",
+    "options": [
+      "Allow for frequent stops.",
+      "Handle cross traffic.",
+      "Permit traffic to flow without interruption.",
+      "Encourage slow driving."
+    ],
+    "correct_answer": "Permit traffic to flow without interruption.",
+    "explanation": "Freeways are multi-lane, controlled access, divided highways that permit you to drive long distances without interruption. (Page 78)",
+    "image": null
+  },
+  {
+    "id": 109,
+    "category": "Safe Driving Practices",
+    "question": "On a freeway, slower moving vehicles should keep to the:",
+    "options": [
+      "Left.",
+      "Right.",
+      "Center.",
+      "Shoulder."
+    ],
+    "correct_answer": "Right.",
+    "explanation": "Slower moving vehicles... MUST KEEP TO THE RIGHT. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 110,
+    "category": "Safe Driving Practices",
+    "question": "If you have a mechanical breakdown on a freeway, you should:",
+    "options": [
+      "Stop in the lane.",
+      "Park entirely off the traveled portion.",
+      "Leave the car and walk for help.",
+      "Flag down other drivers."
+    ],
+    "correct_answer": "Park entirely off the traveled portion.",
+    "explanation": "Park entirely off the traveled portion and stay with your vehicle if at all possible. (Page 78)",
+    "image": null
+  },
+  {
+    "id": 111,
+    "category": "Safe Driving Practices",
+    "question": "The acceleration lane is used to:",
+    "options": [
+      "Park.",
+      "Slow down.",
+      "Speed up to match freeway traffic.",
+      "Make a U-turn."
+    ],
+    "correct_answer": "Speed up to match freeway traffic.",
+    "explanation": "As you approach and enter the acceleration lane, increase speed to match that of vehicles in the through lanes. (Page 78)",
+    "image": null
+  },
+  {
+    "id": 112,
+    "category": "Safe Driving Practices",
+    "question": "The deceleration lane is used to:",
+    "options": [
+      "Speed up.",
+      "Slow down when leaving the freeway.",
+      "Pass other vehicles.",
+      "Park."
+    ],
+    "correct_answer": "Slow down when leaving the freeway.",
+    "explanation": "Move into the deceleration lane and reduce your speed as you prepare to enter the exit ramp. (Page 80)",
+    "image": null
+  },
+  {
+    "id": 113,
+    "category": "Safe Driving Practices",
+    "question": "A 'cloverleaf' interchange allows:",
+    "options": [
+      "Traffic to stop.",
+      "Turning movements off or onto the freeway from four directions using loops.",
+      "Only right turns.",
+      "Only left turns."
+    ],
+    "correct_answer": "Turning movements off or onto the freeway from four directions using loops.",
+    "explanation": "Designed to allow turning movements off or onto the freeway from four directions, using loop type connections. (Page 79)",
+    "image": null
+  },
+  {
+    "id": 114,
+    "category": "Safe Driving Practices",
+    "question": "A 'diamond' interchange is characterized by:",
+    "options": [
+      "Four ramps allowing vehicles to enter or leave the main highway.",
+      "A large circle.",
+      "A tunnel.",
+      "A bridge."
+    ],
+    "correct_answer": "Four ramps allowing vehicles to enter or leave the main highway.",
+    "explanation": "Characterized by four ramps, allowing vehicles to enter or leave the main highway. (Page 80)",
+    "image": null
+  },
+  {
+    "id": 115,
+    "category": "Safe Driving Practices",
+    "question": "Tires are considered illegal if the tread is less than ___ inch deep.",
+    "options": [
+      "1/32",
+      "1/16",
+      "1/8",
+      "1/4"
+    ],
+    "correct_answer": "1/16",
+    "explanation": "A tire is illegal if your tread is less than 1/16 inch deep. (Page 82)",
+    "image": null
+  },
+  {
+    "id": 116,
+    "category": "Safe Driving Practices",
+    "question": "Rear view mirrors must enable the driver to see ___ feet to the rear.",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "500"
+    ],
+    "correct_answer": "200",
+    "explanation": "To enable the driver to see 200 feet to the rear are required on all vehicles. (Page 81)",
+    "image": null
+  },
+  {
+    "id": 117,
+    "category": "Safe Driving Practices",
+    "question": "When driving in hilly country, you should:",
+    "options": [
+      "Coast downhill in neutral.",
+      "Use extra caution and watch for blind pockets.",
+      "Speed up on curves.",
+      "Drive in the center of the road."
+    ],
+    "correct_answer": "Use extra caution and watch for blind pockets.",
+    "explanation": "Use extra caution when driving on narrow, hilly roads... The law also forbids you to coast downhill with the transmission in neutral. (Page 75)",
+    "image": null
+  },
+  {
+    "id": 118,
+    "category": "Safe Driving Practices",
+    "question": "To avoid highway hypnosis, it is advisable to stop every ___ miles or every ___ hours.",
+    "options": [
+      "50 miles; 1 hour",
+      "100 miles; 2 hours",
+      "200 miles; 3 hours",
+      "300 miles; 4 hours"
+    ],
+    "correct_answer": "100 miles; 2 hours",
+    "explanation": "It is advisable to take regular breaks every 100 miles or every two hours. (Page 34)",
+    "image": null
+  },
+  {
+    "id": 119,
+    "category": "Safe Driving Practices",
+    "question": "If a car is approaching in your lane, you should:",
+    "options": [
+      "Pull to the right and slow down.",
+      "Pull to the left.",
+      "Stop immediately.",
+      "Speed up."
+    ],
+    "correct_answer": "Pull to the right and slow down.",
+    "explanation": "Pull to the right and slow down. Sound your horn. At night, flash your lights. (Page 76)",
+    "image": null
+  },
+  {
+    "id": 120,
+    "category": "Safe Driving Practices",
+    "question": "If a vehicle cuts into your space, you should:",
+    "options": [
+      "Honk and speed up.",
+      "Slow down and create space.",
+      "Tailgate them.",
+      "Flash your lights."
+    ],
+    "correct_answer": "Slow down and create space.",
+    "explanation": "General safe driving practice: maintain space cushion. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 121,
+    "category": "Safe Driving Practices",
+    "question": "When sharing the road with a motorcycle, you should know that:",
+    "options": [
+      "They can stop faster than cars.",
+      "They are easy to see.",
+      "They have the same rights and duties as other drivers.",
+      "They don't need a full lane."
+    ],
+    "correct_answer": "They have the same rights and duties as other drivers.",
+    "explanation": "Motorcyclists have the same rights and responsibilities as other drivers. (Page 27)",
+    "image": null
+  },
+  {
+    "id": 122,
+    "category": "Safe Driving Practices",
+    "question": "Large trucks have blind spots called:",
+    "options": [
+      "Safe zones.",
+      "No-Zones.",
+      "Free zones.",
+      "Blind alleys."
+    ],
+    "correct_answer": "No-Zones.",
+    "explanation": "No-Zones are danger areas around trucks and buses where crashes are more likely to occur. (Page 29)",
+    "image": null
+  },
+  {
+    "id": 123,
+    "category": "Safe Driving Practices",
+    "question": "If you are following a truck and cannot see its side mirrors, the driver:",
+    "options": [
+      "Can see you clearly.",
+      "Cannot see you.",
+      "Is ignoring you.",
+      "Is driving too slow."
+    ],
+    "correct_answer": "Cannot see you.",
+    "explanation": "If you can't see the truck driver in his side mirror, he can't see you. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 124,
+    "category": "Safe Driving Practices",
+    "question": "When a truck is turning right, it may need to:",
+    "options": [
+      "Swing wide to the left.",
+      "Swing wide to the right.",
+      "Back up.",
+      "Stop."
+    ],
+    "correct_answer": "Swing wide to the left.",
+    "explanation": "Truck and bus drivers need to swing wide to the left to safely make a right turn. (Page 30)",
+    "image": null
+  },
+  {
+    "id": 125,
+    "category": "Safe Driving Practices",
+    "question": "Alabama law requires headlights to be on when:",
+    "options": [
+      "It is cloudy.",
+      "Windshield wipers are in use due to rain, sleet, or snow.",
+      "Driving in the city.",
+      "Driving on the highway."
+    ],
+    "correct_answer": "Windshield wipers are in use due to rain, sleet, or snow.",
+    "explanation": "Alabama law requires that headlights be turned on when the windshield wipers of the vehicle are in use. (Page 73)",
+    "image": null
+  },
+  {
+    "id": 126,
+    "category": "Safe Driving Practices",
+    "question": "The best way to handle a skid is to:",
+    "options": [
+      "Panic.",
+      "Steer in the direction you want the front of the car to go.",
+      "Brake hard.",
+      "Accelerate."
+    ],
+    "correct_answer": "Steer in the direction you want the front of the car to go.",
+    "explanation": "Steer in the direction the rear of the vehicle is skidding (which aligns the front). (Page 74)",
+    "image": null
+  },
+  {
+    "id": 127,
+    "category": "Safe Driving Practices",
+    "question": "In a skid, you should:",
+    "options": [
+      "Take your foot off the gas.",
+      "Slam on the brakes.",
+      "Shift to a higher gear.",
+      "Turn off the engine."
+    ],
+    "correct_answer": "Take your foot off the gas.",
+    "explanation": "Ease off the gas. (Page 73)",
+    "image": null
+  },
+  {
+    "id": 128,
+    "category": "Safe Driving Practices",
+    "question": "If you encounter a deer on the road, you should:",
+    "options": [
+      "Swerve to avoid it.",
+      "Brake firmly and stay in your lane.",
+      "Speed up.",
+      "Honk and flash lights."
+    ],
+    "correct_answer": "Brake firmly and stay in your lane.",
+    "explanation": "Swerving can cause a more serious crash (general safety rule). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 129,
+    "category": "Safe Driving Practices",
+    "question": "When driving near a blind pedestrian carrying a white cane, you must:",
+    "options": [
+      "Honk to let them know you are there.",
+      "Yield the right-of-way.",
+      "Drive around them quickly.",
+      "Ignore them."
+    ],
+    "correct_answer": "Yield the right-of-way.",
+    "explanation": "Yield to blind pedestrians with canes and/or guide dogs. (Page 67)",
+    "image": null
+  },
+  {
+    "id": 130,
+    "category": "Safe Driving Practices",
+    "question": "Bicyclists should ride:",
+    "options": [
+      "Against traffic.",
+      "With traffic.",
+      "On the sidewalk.",
+      "In the center of the road."
+    ],
+    "correct_answer": "With traffic.",
+    "explanation": "Bicyclists are considered vehicles and should ride with traffic. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 131,
+    "category": "Safe Driving Practices",
+    "question": "The most common cause of motorcycle accidents is:",
+    "options": [
+      "Speeding.",
+      "Weather.",
+      "Failure of other drivers to see the motorcycle.",
+      "Mechanical failure."
+    ],
+    "correct_answer": "Failure of other drivers to see the motorcycle.",
+    "explanation": "Many crashes involve a car turning left in front of a motorcycle because the driver didn't see it. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 132,
+    "category": "Safe Driving Practices",
+    "question": "When parking on a public road, you must be within ___ inches of the curb.",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "24"
+    ],
+    "correct_answer": "18",
+    "explanation": "Standard rule is usually 18 inches (need to verify if explicit in AL manual, but it's a safe general question). (Page ?)",
+    "image": null
+  },
+  {
+    "id": 133,
+    "category": "Safe Driving Practices",
+    "question": "You should check your tire pressure:",
+    "options": [
+      "Once a year.",
+      "Only when they look low.",
+      "Often/Regularly.",
+      "Never."
+    ],
+    "correct_answer": "Often/Regularly.",
+    "explanation": "Check tire pressure often and never drive with them under-inflated. (Page 82)",
+    "image": null
+  },
+  {
+    "id": 134,
+    "category": "Traffic Laws",
+    "question": "An Alabama driver license must be renewed every ___ years.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_answer": "4",
+    "explanation": "Your driver license expires four years after it is issued. (Page 15)",
+    "image": null
+  },
+  {
+    "id": 135,
+    "category": "Traffic Laws",
+    "question": "If you change your address within Alabama, you must notify the Driver License Division within ___ days.",
+    "options": [
+      "10",
+      "30",
+      "60",
+      "90"
+    ],
+    "correct_answer": "30",
+    "explanation": "After changing your address within Alabama, you have 30 days... in which to notify the Driver License Division. (Page 16)",
+    "image": null
+  },
+  {
+    "id": 136,
+    "category": "Traffic Laws",
+    "question": "A Class D license allows you to drive:",
+    "options": [
+      "Commercial trucks only.",
+      "Motorcycles only.",
+      "Standard passenger vehicles.",
+      "School buses."
+    ],
+    "correct_answer": "Standard passenger vehicles.",
+    "explanation": "Class D is the standard license for passenger vehicles. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 137,
+    "category": "Traffic Laws",
+    "question": "The fee for a knowledge test is:",
+    "options": [
+      "$5.00",
+      "$10.00",
+      "$25.00",
+      "$36.25"
+    ],
+    "correct_answer": "$5.00",
+    "explanation": "The fee for each knowledge test is $5.00. (Page 13)",
+    "image": null
+  },
+  {
+    "id": 138,
+    "category": "Traffic Laws",
+    "question": "Under the Alabama Point System, a conviction for Reckless Driving adds ___ points to your record.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6",
+    "explanation": "Reckless Driving or Reckless Endangerment... 6 Points. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 139,
+    "category": "Traffic Laws",
+    "question": "Passing a stopped school bus adds ___ points to your driving record.",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct_answer": "5",
+    "explanation": "Passing Stopped School Bus... 5 Points. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 140,
+    "category": "Traffic Laws",
+    "question": "Following too closely (tailgating) adds ___ points to your driving record.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "3",
+    "explanation": "Following Too Closely... 3 Points. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 141,
+    "category": "Traffic Laws",
+    "question": "Speeding 26 mph or more over the limit adds ___ points to your driving record.",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct_answer": "5",
+    "explanation": "Speeding 26 mph or More Over Speed Limit... 5 Points. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 142,
+    "category": "Traffic Laws",
+    "question": "If you accumulate 12-14 points in a 2-year period, your license will be suspended for ___ days.",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct_answer": "60",
+    "explanation": "12-14 Points in a 2-year period... 60 days. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 143,
+    "category": "Traffic Laws",
+    "question": "The legal blood alcohol concentration (BAC) limit for drivers over 21 in Alabama is:",
+    "options": [
+      ".02%",
+      ".04%",
+      ".05%",
+      ".08%"
+    ],
+    "correct_answer": ".08%",
+    "explanation": "Under Alabama law, it is unlawful to drive with a concentration of .08 percent or more alcohol in the blood. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 144,
+    "category": "Traffic Laws",
+    "question": "For drivers under 21, the legal BAC limit is:",
+    "options": [
+      ".00%",
+      ".02%",
+      ".05%",
+      ".08%"
+    ],
+    "correct_answer": ".02%",
+    "explanation": "Persons under 21 years of age whose blood alcohol content is .02% or more. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 145,
+    "category": "Traffic Laws",
+    "question": "For commercial drivers, the legal BAC limit is:",
+    "options": [
+      ".02%",
+      ".04%",
+      ".05%",
+      ".08%"
+    ],
+    "correct_answer": ".04%",
+    "explanation": "Commercial vehicle operators whose blood alcohol content is .04% or more. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 146,
+    "category": "Traffic Laws",
+    "question": "The penalty for a first DUI conviction includes a fine of up to:",
+    "options": [
+      "$500",
+      "$1,000",
+      "$2,100",
+      "$5,000"
+    ],
+    "correct_answer": "$2,100",
+    "explanation": "Penalty for a first conviction is a fine of $600 to $2,100. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 147,
+    "category": "Traffic Laws",
+    "question": "A first DUI conviction results in a license suspension of:",
+    "options": [
+      "30 days.",
+      "60 days.",
+      "90 days.",
+      "1 year."
+    ],
+    "correct_answer": "90 days.",
+    "explanation": "In addition, the driver license will be suspended for 90 days. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 148,
+    "category": "Traffic Laws",
+    "question": "A second DUI conviction within 10 years results in a mandatory license revocation of:",
+    "options": [
+      "90 days.",
+      "6 months.",
+      "1 year.",
+      "3 years."
+    ],
+    "correct_answer": "1 year.",
+    "explanation": "One-year revocation of driver license is required after a second conviction. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 149,
+    "category": "Traffic Laws",
+    "question": "The 'Implied Consent Law' means:",
+    "options": [
+      "You consent to search your vehicle.",
+      "You consent to chemical testing for alcohol/drugs if arrested.",
+      "You consent to pay any fines immediately.",
+      "You consent to drive safely."
+    ],
+    "correct_answer": "You consent to chemical testing for alcohol/drugs if arrested.",
+    "explanation": "Any person who operates a motor vehicle... shall be deemed to have given his consent to a chemical test. (Page 36)",
+    "image": null
+  },
+  {
+    "id": 150,
+    "category": "Traffic Laws",
+    "question": "Refusing a chemical test for alcohol/drugs will result in:",
+    "options": [
+      "A warning.",
+      "License suspension.",
+      "A small fine.",
+      "No penalty."
+    ],
+    "correct_answer": "License suspension.",
+    "explanation": "A driver... who refuses to submit to chemical breath tests... shall have his driver license suspended. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 151,
+    "category": "Traffic Laws",
+    "question": "If you are involved in a crash with injury, death, or property damage of $500 or more, you must file an SR-31 form within ___ days.",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "60"
+    ],
+    "correct_answer": "30",
+    "explanation": "A written (Form SR-31) must be sent within 30 days. (Page 40)",
+    "image": null
+  },
+  {
+    "id": 152,
+    "category": "Traffic Laws",
+    "question": "When approaching a railroad crossing, you must stop within ___ to ___ feet of the tracks if a train is coming.",
+    "options": [
+      "10 to 20",
+      "15 to 50",
+      "20 to 60",
+      "50 to 100"
+    ],
+    "correct_answer": "15 to 50",
+    "explanation": "You must stop within 15 to 50 ft. (Page ?)",
+    "image": null
+  },
+  {
+    "id": 153,
+    "category": "Traffic Laws",
+    "question": "Vehicles required to stop at all railroad crossings include:",
+    "options": [
+      "Passenger cars.",
+      "Motorcycles.",
+      "School buses and trucks carrying hazardous materials.",
+      "Pickup trucks."
+    ],
+    "correct_answer": "School buses and trucks carrying hazardous materials.",
+    "explanation": "School bus, church bus, or any passenger bus... Trucks transporting flammables, explosives or other hazardous material. (Page 41)",
+    "image": null
+  },
+  {
+    "id": 154,
+    "category": "Traffic Laws",
+    "question": "Texting while driving is:",
+    "options": [
+      "Allowed for adults.",
+      "Allowed at red lights.",
+      "Prohibited for all drivers.",
+      "Allowed in emergencies only."
+    ],
+    "correct_answer": "Prohibited for all drivers.",
+    "explanation": "Alabama's new law prohibits using a wireless device to write, send or read a text message... while operating a motor vehicle. (Page 34)",
+    "image": null
+  },
+  {
+    "id": 155,
+    "category": "Traffic Laws",
+    "question": "The fine for a first offense of texting while driving is:",
+    "options": [
+      "$25",
+      "$50",
+      "$75",
+      "$100"
+    ],
+    "correct_answer": "$25",
+    "explanation": "The fine for violating the law is $25 for a first-time offense. (Page 34)",
+    "image": null
+  },
+  {
+    "id": 156,
+    "category": "Traffic Laws",
+    "question": "Alcohol is classified as a:",
+    "options": [
+      "Stimulant.",
+      "Depressant.",
+      "Hallucinogen.",
+      "Narcotic."
+    ],
+    "correct_answer": "Depressant.",
+    "explanation": "Alcohol is a depressant, not a stimulant. (Page 35)",
+    "image": null
+  },
+  {
+    "id": 157,
+    "category": "Traffic Laws",
+    "question": "One 12-ounce beer contains about the same amount of alcohol as:",
+    "options": [
+      "One shot of whiskey or one glass of wine.",
+      "Two shots of whiskey.",
+      "Half a glass of wine.",
+      "It has no alcohol."
+    ],
+    "correct_answer": "One shot of whiskey or one glass of wine.",
+    "explanation": "The amount of alcohol in one bottle of beer is about equal to that in an average 'shot of whiskey or a glass of wine.' (Page 35)",
+    "image": null
+  },
+  {
+    "id": 158,
+    "category": "Traffic Laws",
+    "question": "If your license is suspended for 24 points or more, the suspension period is:",
+    "options": [
+      "90 days.",
+      "180 days.",
+      "365 days.",
+      "2 years."
+    ],
+    "correct_answer": "365 days.",
+    "explanation": "24 and above points in a 2-year period... 365 days. (Page 21)",
+    "image": null
+  },
+  {
+    "id": 159,
+    "category": "Traffic Laws",
+    "question": "The 'Y' restriction on a learner's license for a 15-year-old means they must be accompanied by:",
+    "options": [
+      "Any licensed driver.",
+      "A licensed driver 21 years of age or older.",
+      "A parent only.",
+      "A driving instructor only."
+    ],
+    "correct_answer": "A licensed driver 21 years of age or older.",
+    "explanation": "Accompanied by a person who is 21 years of age or older and, who is duly licensed. (Page 11)",
+    "image": null
+  },
+  {
+    "id": 160,
+    "category": "Traffic Laws",
+    "question": "A person with a learner's license must hold it for at least ___ months before applying for an unrestricted license.",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correct_answer": "6",
+    "explanation": "Held a learner license for at least a six-month period. (Page 86)",
+    "image": null
+  },
+  {
+    "id": 161,
+    "category": "Traffic Laws",
+    "question": "The minimum age to obtain a Vessel License in Alabama is:",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "correct_answer": "12",
+    "explanation": "Persons ages 12 years old and older may obtain a vessel license. (Page 17)",
+    "image": null
+  },
+  {
+    "id": 162,
+    "category": "Road Signs & Signals",
+    "question": "What does this sign indicate?",
+    "options": [
+      "Stop",
+      "Yield",
+      "School Zone",
+      "Railroad Crossing"
+    ],
+    "correct_answer": "Stop",
+    "explanation": "The octagonal red sign always means Stop. (Page ?)",
+    "image": "page_41_Im0.png"
+  },
+  {
+    "id": 163,
+    "category": "Road Signs & Signals",
+    "question": "Identify this sign:",
+    "options": [
+      "No Passing Zone",
+      "Construction Ahead",
+      "Yield Right of Way",
+      "Merge"
+    ],
+    "correct_answer": "Yield Right of Way",
+    "explanation": "The inverted triangle red and white sign means Yield. (Page ?)",
+    "image": "page_41_Im1.png"
+  },
+  {
+    "id": 164,
+    "category": "Road Signs & Signals",
+    "question": "This sign shape is used for:",
+    "options": [
+      "Regulatory signs",
+      "Warning signs",
+      "School zones",
+      "Railroad warnings"
+    ],
+    "correct_answer": "Railroad warnings",
+    "explanation": "The round yellow sign with an X and RR is for Railroad Crossings. (Page ?)",
+    "image": "page_41_Im2.png"
+  }
+]
