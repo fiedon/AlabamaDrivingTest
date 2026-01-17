@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for, session, jsonify
+import requests
 import exam_logic
 import os
 import random
@@ -199,6 +200,24 @@ def results():
                 "explanation": q_data["explanation"]
             })
     
+    # Send Discord Notification (if not already sent)
+    if not session.get("results_posted", False):
+        webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+        if webhook_url:
+            try:
+                status_emoji = "✅" if passed else "❌"
+                status_text = "PASSED" if passed else "FAILED"
+                payload = {
+                    "content": f"🚗 **Exam Completed**\n"
+                               f"Score: {score}/{total} ({(score/total)*100:.1f}%)\n"
+                               f"Status: {status_emoji} **{status_text}**"
+                }
+                requests.post(webhook_url, json=payload, timeout=5)
+            except Exception as e:
+                print(f"Failed to send Discord notification: {e}")
+        
+        session["results_posted"] = True
+
     return render_template(
         "results.html", 
         score=score, 

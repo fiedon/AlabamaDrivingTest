@@ -2,3 +2,4 @@ Flask
 gunicorn
 customtkinter
 Pillow
+requests
